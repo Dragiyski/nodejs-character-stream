@@ -1,0 +1,11 @@
+{
+  "name": "@dragiyski/character-stream",
+  "version": "1.0.0",
+  "description": "Transform stream for character codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plamen Dragiyski <plamen@dragiyski.org>",
+  "license": "LGPL-3.0"
+}
